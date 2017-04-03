@@ -122,7 +122,7 @@ It is important to know how to configure this environment and continuously modif
   - [X] Pull request on an open-source project.[Pull Request Link](https://github.com/Proxmark/proxmark3/pull/264)
   - [X] Dotfiles repo.
   - [X] `Brewfile` with favorite Homebrew packages.[https://github.com/qweenwasabi/Dotfiles]
-  - [ ] List of your favorite plugins for your editor of choice.
+  - [X] List of your favorite plugins for your editor of choice.
 - [X] The artifact produced is properly licensed, preferably with the [MIT license][mit-license].
 **In Networking folder**
   - [X] List of good Meetups and/or workshops with links and any thoughts/reflections after attending.
