@@ -119,14 +119,15 @@ It is important to know how to configure this environment and continuously modif
 
 - [ ] Artifact produced is a gist of links to the various mini-projects.
 - [ ] Artifact includes links to all mini-project outputs:
-  - [ ] List of good Meetups and/or workshops with links and any thoughts/reflections after attending.
-  - [ ] List of interesting people to follow with links to their social media profile(s).
-  - [ ] List of relevant and useful conferences and any thoughts/reflections after attending.
-  - [ ] Pull request on an open-source project.
-  - [ ] Dotfiles repo.
-  - [ ] `Brewfile` with favorite Homebrew packages.
+  - [X] Pull request on an open-source project.[Pull Request Link](https://github.com/Proxmark/proxmark3/pull/264)
+  - [X] Dotfiles repo.
+  - [X] `Brewfile` with favorite Homebrew packages.[https://github.com/qweenwasabi/Dotfiles]
   - [ ] List of your favorite plugins for your editor of choice.
-- [ ] The artifact produced is properly licensed, preferably with the [MIT license][mit-license].
+- [X] The artifact produced is properly licensed, preferably with the [MIT license][mit-license].
+**In Networking folder**
+  - [X] List of good Meetups and/or workshops with links and any thoughts/reflections after attending.
+  - [X] List of interesting people to follow with links to their social media profile(s).
+  - [X] List of relevant and useful conferences and any thoughts/reflections after attending.
 
 ### Stretch
 
