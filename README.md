@@ -120,7 +120,7 @@ It is important to know how to configure this environment and continuously modif
 - [ ] Artifact produced is a gist of links to the various mini-projects.
 - [ ] Artifact includes links to all mini-project outputs:
   - [X] Pull request on an open-source project.[Pull Request Link](https://github.com/Proxmark/proxmark3/pull/264)
-  - [X] Dotfiles repo.
+  - [ ] Dotfiles repo.
   - [X] `Brewfile` with favorite Homebrew packages.[https://github.com/qweenwasabi/Dotfiles]
   - [X] List of your favorite plugins for your editor of choice.
 - [X] The artifact produced is properly licensed, preferably with the [MIT license][mit-license].
